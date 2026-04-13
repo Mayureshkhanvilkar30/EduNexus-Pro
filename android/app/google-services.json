@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "947788380180",
+    "project_id": "edunexus-fbcb1",
+    "storage_bucket": "edunexus-fbcb1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947788380180:android:11469e3559b8f599148f01",
+        "android_client_info": {
+          "package_name": "com.example.edunexus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947788380180-83g31ng9djai92roaa0b17b3ecvrh056.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.edunexus",
+            "certificate_hash": "3b8320141250f950a99a974715c5039570a8d92f"
+          }
+        },
+        {
+          "client_id": "947788380180-jt8uegsgqld00n6ddbk51rr4uef8hk97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB8d30iEvGBFljPkcmQgKpnit1a9w9_b4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947788380180-jt8uegsgqld00n6ddbk51rr4uef8hk97.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "947788380180-7l4019m0udesve0tjjfaknah0q09j7sb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.edunexus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
